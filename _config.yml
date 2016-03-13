@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B8B8'
+    - '#000000'
+    - '#787878'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.6814173558327704
+  lightness: 0.1760059485643236
+  rhythmicContrast: 0.8823662455866352
+  saturation: 0.8768966220362152
+cta: {}
+layout_spectrum: 0.836711
+name: iloria
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.628378
